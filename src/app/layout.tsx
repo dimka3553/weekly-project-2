@@ -1,6 +1,7 @@
 import "./globals.css";
 import Link from "next/link";
 import Search from "@/components/Search";
+import Login from "@/components/Login";
 
 export default function RootLayout({
   children,
@@ -18,6 +19,7 @@ export default function RootLayout({
             <div className="flex items-center gap-5">
               <Search />
               <Link href="/favorites">Favorites</Link>
+              <Login />
             </div>
           </div>
         </nav>
