@@ -8,6 +8,7 @@ type SearchResultProps = {
 };
 
 export default function SearchResult({ movie, setOpen }: SearchResultProps) {
+  if (movie.thumb_url === "N/A") return null;
   return (
     <Link
       href={`movie/${movie.imdb_url.replace(/\/title\//g, "")}`}
