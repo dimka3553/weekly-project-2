@@ -119,7 +119,7 @@ export default function DeleteFromList({ children, movieId }: NewListProps) {
               </div>
 
               <Dialog.Description className="mb-4 text-gray-500">
-                Please select a list to add this movie to.
+                Please select a list to remove this movie from.
               </Dialog.Description>
 
               {error && (
