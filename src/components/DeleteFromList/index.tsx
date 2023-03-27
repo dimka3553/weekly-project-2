@@ -86,7 +86,7 @@ export default function DeleteFromList({ children, movieId }: NewListProps) {
             <div className="px-5 pb-5">
               <div className="flex items-center h-[60px] justify-between">
                 <Dialog.Title className="text-xl font-bold text-black">
-                  Add To List
+                  Remove from List
                 </Dialog.Title>
                 <Dialog.Close className="flex items-center justify-center h-10 w-10 rounded-full text-gray-500 text-2xl hover:bg-slate-100 hover:ring-2 text-center align-middle transition-[0.15s] hover:scale-105 active:scale-95">
                   <svg

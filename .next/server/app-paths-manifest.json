@@ -1,5 +1,4 @@
 {
-  "/my-lists/page": "app/my-lists/page.js",
   "/my-lists/[id]/page": "app/my-lists/[id]/page.js",
   "/movie/[id]/page": "app/movie/[id]/page.js"
 }

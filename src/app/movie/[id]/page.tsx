@@ -95,11 +95,11 @@ export default async function MoviePage({
                 Add to list
               </div>
             </AddToList>
-            <DeleteFromList movieId={params.id}>
+            {/* <DeleteFromList movieId={params.id}>
               <div className="bg-red-500 text-white px-5 py-2 rounded-md hover:scale-[1.02] active:scale-[0.98] transition-[0.15s]">
                 Remove from list
               </div>
-            </DeleteFromList>
+            </DeleteFromList> */}
           </div>
         </div>
       </div>

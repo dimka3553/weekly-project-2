@@ -260,32 +260,6 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./src/components/DeleteFromList/index.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/DeleteFromList/index.tsx",
-        "chunks": [
-          "app/movie/[id]/page:app/movie/[id]/page"
-        ],
-        "name": "*",
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/DeleteFromList/index.tsx",
-        "chunks": [
-          "app/movie/[id]/page:app/movie/[id]/page"
-        ],
-        "name": "",
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/DeleteFromList/index.tsx",
-        "chunks": [
-          "app/movie/[id]/page:app/movie/[id]/page"
-        ],
-        "name": "default",
-        "async": false
-      }
-    },
     "(app-client)/./src/app/my-lists/page.tsx": {
       "*": {
         "id": "(sc_client)/./src/app/my-lists/page.tsx",
@@ -759,13 +733,6 @@ self.__RSC_MANIFEST={
       "static/css/app/movie/[id]/page.css"
     ]
   },
-  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/DeleteFromList/styles.module.css#": {
-    "id": "null",
-    "name": "",
-    "chunks": [
-      "static/css/app/movie/[id]/page.css"
-    ]
-  },
   "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/AddToList/index.tsx": {
     "id": "(app-client)/./src/components/AddToList/index.tsx",
     "chunks": [
@@ -784,30 +751,6 @@ self.__RSC_MANIFEST={
   },
   "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/AddToList/index.tsx#default": {
     "id": "(app-client)/./src/components/AddToList/index.tsx",
-    "chunks": [
-      "app/movie/[id]/page:app/movie/[id]/page"
-    ],
-    "name": "default",
-    "async": false
-  },
-  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/DeleteFromList/index.tsx": {
-    "id": "(app-client)/./src/components/DeleteFromList/index.tsx",
-    "chunks": [
-      "app/movie/[id]/page:app/movie/[id]/page"
-    ],
-    "name": "*",
-    "async": false
-  },
-  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/DeleteFromList/index.tsx#": {
-    "id": "(app-client)/./src/components/DeleteFromList/index.tsx",
-    "chunks": [
-      "app/movie/[id]/page:app/movie/[id]/page"
-    ],
-    "name": "",
-    "async": false
-  },
-  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/DeleteFromList/index.tsx#default": {
-    "id": "(app-client)/./src/components/DeleteFromList/index.tsx",
     "chunks": [
       "app/movie/[id]/page:app/movie/[id]/page"
     ],
