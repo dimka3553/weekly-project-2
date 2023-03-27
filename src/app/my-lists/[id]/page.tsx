@@ -88,7 +88,7 @@ export default async function MovieListPage({
       </div>
       <div className="grid grid-cols-1 min-[800px]:grid-cols-3 min-[400px]:grid-cols-2 gap-5 w-full min-[1000px]:grid-cols-4 mx-auto max-w-[1200px]">
         {movieList.items?.map((item) => (
-          <MovieCard key={item.id} movie={item} />
+          <MovieCard key={item.id} movie={item} listId={params.id} />
         ))}
       </div>
       {movieList.items?.length === 0 ? (

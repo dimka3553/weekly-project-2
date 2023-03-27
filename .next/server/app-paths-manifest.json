@@ -1,7 +1,5 @@
 {
-  "/favorites/page": "app/favorites/page.js",
-  "/movie/[id]/page": "app/movie/[id]/page.js",
-  "/my-lists/[id]/page": "app/my-lists/[id]/page.js",
   "/my-lists/page": "app/my-lists/page.js",
-  "/page": "app/page.js"
+  "/my-lists/[id]/page": "app/my-lists/[id]/page.js",
+  "/movie/[id]/page": "app/movie/[id]/page.js"
 }

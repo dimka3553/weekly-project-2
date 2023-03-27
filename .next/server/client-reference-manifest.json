@@ -1,1 +1,903 @@
-{"__ssr_module_mapping__":{"218":{"*":{"id":"77197","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","972:972-d79304b8680f890a","185:app/layout-0e5922035a162775"],"name":"*","async":false},"":{"id":"77197","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","972:972-d79304b8680f890a","185:app/layout-0e5922035a162775"],"name":"","async":false},"default":{"id":"77197","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","972:972-d79304b8680f890a","185:app/layout-0e5922035a162775"],"name":"default","async":false}},"611":{"*":{"id":"95958","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"*","async":false},"":{"id":"95958","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"","async":false},"default":{"id":"95958","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"default","async":false}},"747":{"*":{"id":"20124","chunks":["59:59-8b7d229ada842948","601:app/error-2aca5c58e8a1c381"],"name":"*","async":false},"":{"id":"20124","chunks":["59:59-8b7d229ada842948","601:app/error-2aca5c58e8a1c381"],"name":"","async":false},"default":{"id":"20124","chunks":["59:59-8b7d229ada842948","601:app/error-2aca5c58e8a1c381"],"name":"default","async":false}},"1978":{"*":{"id":"84465","chunks":["59:59-8b7d229ada842948","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","233:app/movie/[id]/page-e5651544d95e95c8"],"name":"*","async":false},"":{"id":"84465","chunks":["59:59-8b7d229ada842948","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","233:app/movie/[id]/page-e5651544d95e95c8"],"name":"","async":false},"default":{"id":"84465","chunks":["59:59-8b7d229ada842948","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","233:app/movie/[id]/page-e5651544d95e95c8"],"name":"default","async":false}},"2643":{"*":{"id":"19785","chunks":["59:59-8b7d229ada842948","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","233:app/movie/[id]/page-e5651544d95e95c8"],"name":"*","async":false},"":{"id":"19785","chunks":["59:59-8b7d229ada842948","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","233:app/movie/[id]/page-e5651544d95e95c8"],"name":"","async":false},"default":{"id":"19785","chunks":["59:59-8b7d229ada842948","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","233:app/movie/[id]/page-e5651544d95e95c8"],"name":"default","async":false}},"2936":{"*":{"id":"8984","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","57:app/favorites/page-a655c268134ebc0f"],"name":"*","async":false},"":{"id":"8984","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","57:app/favorites/page-a655c268134ebc0f"],"name":"","async":false},"default":{"id":"8984","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","57:app/favorites/page-a655c268134ebc0f"],"name":"default","async":false}},"3184":{"*":{"id":"90422","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","972:972-d79304b8680f890a","351:app/my-lists/page-575bfaf4ee26c80f"],"name":"*","async":false},"":{"id":"90422","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","972:972-d79304b8680f890a","351:app/my-lists/page-575bfaf4ee26c80f"],"name":"","async":false},"default":{"id":"90422","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","972:972-d79304b8680f890a","351:app/my-lists/page-575bfaf4ee26c80f"],"name":"default","async":false}},"3920":{"*":{"id":"13716","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","931:app/page-56694cdce088f25b"],"name":"*","async":false},"":{"id":"13716","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","931:app/page-56694cdce088f25b"],"name":"","async":false},"default":{"id":"13716","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","931:app/page-56694cdce088f25b"],"name":"default","async":false}},"4615":{"*":{"id":"43817","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","972:972-d79304b8680f890a","160:app/my-lists/[id]/page-cd9959dd1fc4c537"],"name":"*","async":false},"":{"id":"43817","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","972:972-d79304b8680f890a","160:app/my-lists/[id]/page-cd9959dd1fc4c537"],"name":"","async":false},"default":{"id":"43817","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","972:972-d79304b8680f890a","160:app/my-lists/[id]/page-cd9959dd1fc4c537"],"name":"default","async":false}},"6622":{"*":{"id":"57180","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","972:972-d79304b8680f890a","351:app/my-lists/page-575bfaf4ee26c80f"],"name":"*","async":false},"":{"id":"57180","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","972:972-d79304b8680f890a","351:app/my-lists/page-575bfaf4ee26c80f"],"name":"","async":false},"default":{"id":"57180","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","972:972-d79304b8680f890a","351:app/my-lists/page-575bfaf4ee26c80f"],"name":"default","async":false}},"7059":{"*":{"id":"79533","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","931:app/page-56694cdce088f25b"],"name":"*","async":false},"":{"id":"79533","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","931:app/page-56694cdce088f25b"],"name":"","async":false},"default":{"id":"79533","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","931:app/page-56694cdce088f25b"],"name":"default","async":false}},"8331":{"*":{"id":"81551","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"*","async":false},"":{"id":"81551","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"","async":false},"default":{"id":"81551","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"default","async":false}},"8880":{"*":{"id":"12513","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"*","async":false},"":{"id":"12513","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"","async":false},"default":{"id":"12513","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"default","async":false}},"8892":{"*":{"id":"48950","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"*","async":false},"":{"id":"48950","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"","async":false},"default":{"id":"48950","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"default","async":false}}},"__edge_ssr_module_mapping__":{},"__entry_css_files__":{"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/layout":["static/css/5d3b4a7be1e4368b.css","static/css/5f25a3a837be3576.css"],"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/movie/[id]/page":["static/css/12b98997c5fb88f8.css"],"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/my-lists/page":["static/css/c634d537af348c2b.css"]},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/app-router.js":{"id":"611","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/app-router.js":{"id":"611","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/app-router.js#":{"id":"611","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/app-router.js#":{"id":"611","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/app-router.js#default":{"id":"611","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/app-router.js#default":{"id":"611","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/error-boundary.js":{"id":"8331","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/error-boundary.js":{"id":"8331","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/error-boundary.js#":{"id":"8331","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/error-boundary.js#":{"id":"8331","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/error-boundary.js#default":{"id":"8331","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/error-boundary.js#default":{"id":"8331","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/layout-router.js":{"id":"8892","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/layout-router.js":{"id":"8892","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/layout-router.js#":{"id":"8892","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/layout-router.js#":{"id":"8892","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/layout-router.js#default":{"id":"8892","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/layout-router.js#default":{"id":"8892","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/render-from-template-context.js":{"id":"8880","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/render-from-template-context.js":{"id":"8880","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/render-from-template-context.js#":{"id":"8880","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/render-from-template-context.js#":{"id":"8880","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/render-from-template-context.js#default":{"id":"8880","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/render-from-template-context.js#default":{"id":"8880","chunks":["272:webpack-fb9bbf33a69e1ffc","455:455-34f58b1ac03d197e"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/image.js":{"id":"7059","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","931:app/page-56694cdce088f25b"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/image.js":{"id":"7059","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","931:app/page-56694cdce088f25b"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/image.js#":{"id":"7059","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","931:app/page-56694cdce088f25b"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/image.js#":{"id":"7059","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","931:app/page-56694cdce088f25b"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/image.js#default":{"id":"7059","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","931:app/page-56694cdce088f25b"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/image.js#default":{"id":"7059","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","931:app/page-56694cdce088f25b"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/link.js":{"id":"3920","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","931:app/page-56694cdce088f25b"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/link.js":{"id":"3920","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","931:app/page-56694cdce088f25b"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/link.js#":{"id":"3920","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","931:app/page-56694cdce088f25b"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/link.js#":{"id":"3920","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","931:app/page-56694cdce088f25b"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/link.js#default":{"id":"3920","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","931:app/page-56694cdce088f25b"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/link.js#default":{"id":"3920","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","931:app/page-56694cdce088f25b"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/Login/styles.module.css#":{"id":"null","name":"","chunks":["static/css/5f25a3a837be3576.css"]},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/Search/styles.module.css#":{"id":"null","name":"","chunks":["static/css/5f25a3a837be3576.css"]},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/Avatar.jsx":{"id":"6622","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","972:972-d79304b8680f890a","351:app/my-lists/page-575bfaf4ee26c80f"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/Avatar.jsx#":{"id":"6622","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","972:972-d79304b8680f890a","351:app/my-lists/page-575bfaf4ee26c80f"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/Avatar.jsx#default":{"id":"6622","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","972:972-d79304b8680f890a","351:app/my-lists/page-575bfaf4ee26c80f"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/NavLinks.tsx":{"id":"218","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","972:972-d79304b8680f890a","185:app/layout-0e5922035a162775"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/NavLinks.tsx#":{"id":"218","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","972:972-d79304b8680f890a","185:app/layout-0e5922035a162775"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/NavLinks.tsx#default":{"id":"218","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","972:972-d79304b8680f890a","185:app/layout-0e5922035a162775"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/error.tsx":{"id":"747","chunks":["59:59-8b7d229ada842948","601:app/error-2aca5c58e8a1c381"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/error.tsx#":{"id":"747","chunks":["59:59-8b7d229ada842948","601:app/error-2aca5c58e8a1c381"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/error.tsx#default":{"id":"747","chunks":["59:59-8b7d229ada842948","601:app/error-2aca5c58e8a1c381"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/favorites/page.tsx":{"id":"2936","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","57:app/favorites/page-a655c268134ebc0f"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/favorites/page.tsx#":{"id":"2936","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","57:app/favorites/page-a655c268134ebc0f"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/favorites/page.tsx#default":{"id":"2936","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","57:app/favorites/page-a655c268134ebc0f"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/AddToList/styles.module.css#":{"id":"null","name":"","chunks":["static/css/12b98997c5fb88f8.css"]},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/DeleteFromList/styles.module.css#":{"id":"null","name":"","chunks":["static/css/12b98997c5fb88f8.css"]},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/AddToList/index.tsx":{"id":"2643","chunks":["59:59-8b7d229ada842948","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","233:app/movie/[id]/page-e5651544d95e95c8"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/AddToList/index.tsx#":{"id":"2643","chunks":["59:59-8b7d229ada842948","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","233:app/movie/[id]/page-e5651544d95e95c8"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/AddToList/index.tsx#default":{"id":"2643","chunks":["59:59-8b7d229ada842948","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","233:app/movie/[id]/page-e5651544d95e95c8"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/DeleteFromList/index.tsx":{"id":"1978","chunks":["59:59-8b7d229ada842948","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","233:app/movie/[id]/page-e5651544d95e95c8"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/DeleteFromList/index.tsx#":{"id":"1978","chunks":["59:59-8b7d229ada842948","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","233:app/movie/[id]/page-e5651544d95e95c8"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/DeleteFromList/index.tsx#default":{"id":"1978","chunks":["59:59-8b7d229ada842948","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","233:app/movie/[id]/page-e5651544d95e95c8"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/DeleteList.tsx":{"id":"4615","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","972:972-d79304b8680f890a","160:app/my-lists/[id]/page-cd9959dd1fc4c537"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/DeleteList.tsx#":{"id":"4615","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","972:972-d79304b8680f890a","160:app/my-lists/[id]/page-cd9959dd1fc4c537"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/DeleteList.tsx#default":{"id":"4615","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","972:972-d79304b8680f890a","160:app/my-lists/[id]/page-cd9959dd1fc4c537"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/NewList/styles.module.css#":{"id":"null","name":"","chunks":["static/css/c634d537af348c2b.css"]},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/my-lists/page.tsx":{"id":"3184","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","972:972-d79304b8680f890a","351:app/my-lists/page-575bfaf4ee26c80f"],"name":"*","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/my-lists/page.tsx#":{"id":"3184","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","972:972-d79304b8680f890a","351:app/my-lists/page-575bfaf4ee26c80f"],"name":"","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/my-lists/page.tsx#default":{"id":"3184","chunks":["59:59-8b7d229ada842948","920:920-3c6cc1f8caf12745","288:288-66b385a6adc2efa7","954:954-68a2dedeacdd537b","972:972-d79304b8680f890a","351:app/my-lists/page-575bfaf4ee26c80f"],"name":"default","async":false},"/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/globals.css#":{"id":"null","name":"","chunks":["static/css/5d3b4a7be1e4368b.css"]}}
+{
+  "__ssr_module_mapping__": {
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "chunks": [
+          "app/my-lists/[id]/page:app/my-lists/[id]/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "chunks": [
+          "app/my-lists/[id]/page:app/my-lists/[id]/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "chunks": [
+          "app/my-lists/[id]/page:app/my-lists/[id]/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "chunks": [
+          "app/my-lists/[id]/page:app/my-lists/[id]/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "chunks": [
+          "app/my-lists/[id]/page:app/my-lists/[id]/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "chunks": [
+          "app/my-lists/[id]/page:app/my-lists/[id]/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/Avatar.jsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/Avatar.jsx",
+        "chunks": [
+          "app/my-lists/[id]/page:app/my-lists/[id]/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/Avatar.jsx",
+        "chunks": [
+          "app/my-lists/[id]/page:app/my-lists/[id]/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/Avatar.jsx",
+        "chunks": [
+          "app/my-lists/[id]/page:app/my-lists/[id]/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/NavLinks.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/NavLinks.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/NavLinks.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/NavLinks.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/error.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/error.tsx",
+        "chunks": [
+          "app/error:app/error"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/error.tsx",
+        "chunks": [
+          "app/error:app/error"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/error.tsx",
+        "chunks": [
+          "app/error:app/error"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/AddToList/index.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/AddToList/index.tsx",
+        "chunks": [
+          "app/movie/[id]/page:app/movie/[id]/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/AddToList/index.tsx",
+        "chunks": [
+          "app/movie/[id]/page:app/movie/[id]/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/AddToList/index.tsx",
+        "chunks": [
+          "app/movie/[id]/page:app/movie/[id]/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/DeleteFromList/index.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/DeleteFromList/index.tsx",
+        "chunks": [
+          "app/movie/[id]/page:app/movie/[id]/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/DeleteFromList/index.tsx",
+        "chunks": [
+          "app/movie/[id]/page:app/movie/[id]/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/DeleteFromList/index.tsx",
+        "chunks": [
+          "app/movie/[id]/page:app/movie/[id]/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/my-lists/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/my-lists/page.tsx",
+        "chunks": [
+          "app/my-lists/page:app/my-lists/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/my-lists/page.tsx",
+        "chunks": [
+          "app/my-lists/page:app/my-lists/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/my-lists/page.tsx",
+        "chunks": [
+          "app/my-lists/page:app/my-lists/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/DeleteList.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/DeleteList.tsx",
+        "chunks": [
+          "app/my-lists/[id]/page:app/my-lists/[id]/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/DeleteList.tsx",
+        "chunks": [
+          "app/my-lists/[id]/page:app/my-lists/[id]/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/DeleteList.tsx",
+        "chunks": [
+          "app/my-lists/[id]/page:app/my-lists/[id]/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/MovieCardX/index.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/MovieCardX/index.tsx",
+        "chunks": [
+          "app/my-lists/[id]/page:app/my-lists/[id]/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/MovieCardX/index.tsx",
+        "chunks": [
+          "app/my-lists/[id]/page:app/my-lists/[id]/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/MovieCardX/index.tsx",
+        "chunks": [
+          "app/my-lists/[id]/page:app/my-lists/[id]/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    }
+  },
+  "__edge_ssr_module_mapping__": {},
+  "__entry_css_files__": {
+    "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/layout": [
+      "static/css/_app-client_src_app_globals_css.css",
+      "static/css/app/layout.css"
+    ],
+    "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/movie/[id]/page": [
+      "static/css/app/movie/[id]/page.css"
+    ],
+    "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/my-lists/page": [
+      "static/css/app/my-lists/page.css"
+    ]
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/app-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/app-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/app-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/app-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/app-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/app-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/error-boundary.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/error-boundary.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/error-boundary.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/error-boundary.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/error-boundary.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/layout-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/layout-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/layout-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/layout-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/layout-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/layout-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/render-from-template-context.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/render-from-template-context.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/components/render-from-template-context.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/image.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/image.js",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/image.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/image.js",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/image.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/image.js",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/image.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/image.js",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/image.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/image.js",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/image.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/image.js",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/link.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/link.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/link.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/link.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/client/link.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/node_modules/next/dist/esm/client/link.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/Login/styles.module.css#": {
+    "id": "null",
+    "name": "",
+    "chunks": [
+      "static/css/app/layout.css"
+    ]
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/Search/styles.module.css#": {
+    "id": "null",
+    "name": "",
+    "chunks": [
+      "static/css/app/layout.css"
+    ]
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/Avatar.jsx": {
+    "id": "(app-client)/./src/components/Avatar.jsx",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/Avatar.jsx#": {
+    "id": "(app-client)/./src/components/Avatar.jsx",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/Avatar.jsx#default": {
+    "id": "(app-client)/./src/components/Avatar.jsx",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/NavLinks.tsx": {
+    "id": "(app-client)/./src/components/NavLinks.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/NavLinks.tsx#": {
+    "id": "(app-client)/./src/components/NavLinks.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/NavLinks.tsx#default": {
+    "id": "(app-client)/./src/components/NavLinks.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/error.tsx": {
+    "id": "(app-client)/./src/app/error.tsx",
+    "chunks": [
+      "app/error:app/error"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/error.tsx#": {
+    "id": "(app-client)/./src/app/error.tsx",
+    "chunks": [
+      "app/error:app/error"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/error.tsx#default": {
+    "id": "(app-client)/./src/app/error.tsx",
+    "chunks": [
+      "app/error:app/error"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/AddToList/styles.module.css#": {
+    "id": "null",
+    "name": "",
+    "chunks": [
+      "static/css/app/movie/[id]/page.css"
+    ]
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/DeleteFromList/styles.module.css#": {
+    "id": "null",
+    "name": "",
+    "chunks": [
+      "static/css/app/movie/[id]/page.css"
+    ]
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/AddToList/index.tsx": {
+    "id": "(app-client)/./src/components/AddToList/index.tsx",
+    "chunks": [
+      "app/movie/[id]/page:app/movie/[id]/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/AddToList/index.tsx#": {
+    "id": "(app-client)/./src/components/AddToList/index.tsx",
+    "chunks": [
+      "app/movie/[id]/page:app/movie/[id]/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/AddToList/index.tsx#default": {
+    "id": "(app-client)/./src/components/AddToList/index.tsx",
+    "chunks": [
+      "app/movie/[id]/page:app/movie/[id]/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/DeleteFromList/index.tsx": {
+    "id": "(app-client)/./src/components/DeleteFromList/index.tsx",
+    "chunks": [
+      "app/movie/[id]/page:app/movie/[id]/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/DeleteFromList/index.tsx#": {
+    "id": "(app-client)/./src/components/DeleteFromList/index.tsx",
+    "chunks": [
+      "app/movie/[id]/page:app/movie/[id]/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/DeleteFromList/index.tsx#default": {
+    "id": "(app-client)/./src/components/DeleteFromList/index.tsx",
+    "chunks": [
+      "app/movie/[id]/page:app/movie/[id]/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/NewList/styles.module.css#": {
+    "id": "null",
+    "name": "",
+    "chunks": [
+      "static/css/app/my-lists/page.css"
+    ]
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/my-lists/page.tsx": {
+    "id": "(app-client)/./src/app/my-lists/page.tsx",
+    "chunks": [
+      "app/my-lists/page:app/my-lists/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/my-lists/page.tsx#": {
+    "id": "(app-client)/./src/app/my-lists/page.tsx",
+    "chunks": [
+      "app/my-lists/page:app/my-lists/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/my-lists/page.tsx#default": {
+    "id": "(app-client)/./src/app/my-lists/page.tsx",
+    "chunks": [
+      "app/my-lists/page:app/my-lists/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/DeleteList.tsx": {
+    "id": "(app-client)/./src/components/DeleteList.tsx",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/DeleteList.tsx#": {
+    "id": "(app-client)/./src/components/DeleteList.tsx",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/DeleteList.tsx#default": {
+    "id": "(app-client)/./src/components/DeleteList.tsx",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/MovieCardX/index.tsx": {
+    "id": "(app-client)/./src/components/MovieCardX/index.tsx",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/MovieCardX/index.tsx#": {
+    "id": "(app-client)/./src/components/MovieCardX/index.tsx",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/components/MovieCardX/index.tsx#default": {
+    "id": "(app-client)/./src/components/MovieCardX/index.tsx",
+    "chunks": [
+      "app/my-lists/[id]/page:app/my-lists/[id]/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/dimashkabura/Desktop/code/weekly-poject-2/src/app/globals.css#": {
+    "id": "null",
+    "name": "",
+    "chunks": [
+      "static/css/_app-client_src_app_globals_css.css"
+    ]
+  }
+}
