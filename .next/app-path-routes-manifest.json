@@ -1,0 +1,7 @@
+{
+  "/favorites/page": "/favorites",
+  "/movie/[id]/page": "/movie/[id]",
+  "/my-lists/[id]/page": "/my-lists/[id]",
+  "/my-lists/page": "/my-lists",
+  "/page": "/"
+}

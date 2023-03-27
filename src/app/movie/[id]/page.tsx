@@ -1,23 +1,49 @@
-import FavoritesBtn from "@/components/FavoritesBtn";
-import { MovieType } from "@/types/movie";
 import Image from "next/image";
+import { gql } from "graphql-request";
+import { client } from "@/lib/client";
+import AddToList from "@/components/AddToList";
+import DeleteFromList from "@/components/DeleteFromList";
 
-const fetchMovie = async (id: string): Promise<MovieType> => {
-  const res = await fetch(
-    "https://raw.githubusercontent.com/theapache64/top250/master/top250_min.json"
-  );
-  if (!res.ok) {
-    throw new Error("Failed to fetch data");
-  }
-  let movies = await res.json();
-  movies = movies.map((movie: MovieType) => {
-    movie.name = movie.name.replace(/&apos;/g, "'");
-    return movie;
+const fetchMovie = async (id: string) => {
+  const GET_MOVIE = gql`
+    query Query($searchMovieByIdId: String!) {
+      searchMovieById(id: $searchMovieByIdId) {
+        Title
+        Actors
+        Genre
+        Year
+        Plot
+        Poster
+        imdbRating
+      }
+    }
+  `;
+
+  const { searchMovieById } = await client.request<{
+    searchMovieById: {
+      Title: string;
+      Actors: string;
+      Genre: string;
+      Year: string;
+      Plot: string;
+      Poster: string;
+      imdbRating: string;
+    };
+  }>(GET_MOVIE, {
+    searchMovieByIdId: id,
   });
-  return movies.filter(
-    (movie: MovieType) =>
-      movie.imdb_url.replace(/\/title\//g, "").replace(/\//g, "") === id
-  )[0];
+
+  const getMovie = {
+    name: searchMovieById.Title,
+    actors: searchMovieById.Actors.split(", "),
+    genre: searchMovieById.Genre.split(", "),
+    year: searchMovieById.Year,
+    desc: searchMovieById.Plot,
+    image_url: searchMovieById.Poster,
+    rating: searchMovieById.imdbRating,
+  };
+
+  return getMovie;
 };
 
 export default async function MoviePage({
@@ -29,13 +55,15 @@ export default async function MoviePage({
   return (
     <main className="max-w-[1200px] mx-auto px-5">
       <div className="flex gap-10 max-[800px]:flex-col">
-        <Image
-          src={movie.image_url}
-          width={500}
-          height={500}
-          alt={movie.name}
-          className="max-[800px]:h-[300px] max-[800px]:w-full object-cover"
-        />
+        <div className="min-w-[400px] max-[500px]:min-w-full">
+          <Image
+            src={movie.image_url}
+            width={600}
+            height={600}
+            alt={movie.name}
+            className="max-[800px]:h-[300px] max-[800px]:w-full object-cover"
+          />
+        </div>
 
         <div className="flex flex-col gap-5">
           {" "}
@@ -61,7 +89,18 @@ export default async function MoviePage({
               </div>
             ))}
           </div>
-          <FavoritesBtn movie={movie} />
+          <div className="flex gap-5">
+            <AddToList movieId={params.id}>
+              <div className="bg-primary text-white px-5 py-2 rounded-md hover:scale-[1.02] active:scale-[0.98] transition-[0.15s]">
+                Add to list
+              </div>
+            </AddToList>
+            <DeleteFromList movieId={params.id}>
+              <div className="bg-red-500 text-white px-5 py-2 rounded-md hover:scale-[1.02] active:scale-[0.98] transition-[0.15s]">
+                Remove from list
+              </div>
+            </DeleteFromList>
+          </div>
         </div>
       </div>
     </main>

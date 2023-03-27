@@ -1,3 +1,5 @@
+"use client";
+
 import jazzicon from "@metamask/jazzicon";
 import { useEffect, useRef } from "react";
 

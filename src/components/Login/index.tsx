@@ -1,14 +1,18 @@
 "use client";
 
-// a login modal, with a login button that opens the modal, it contains an input with an email which is stored in local storage.
-// the login button should be hidden if the user is logged in, and the logout button should be shown instead.
-
 import * as Dialog from "@radix-ui/react-dialog";
 import { useEffect, useState } from "react";
 import styles from "./styles.module.css";
 import Avatar from "@/components/Avatar";
+import { useRouter } from "next/navigation";
 
-export default function Login() {
+type LoginProps = {
+  setLoggedIn: (value: boolean) => void;
+  children: React.ReactNode;
+};
+
+export default function Login({ setLoggedIn, children }: LoginProps) {
+  const router = useRouter();
   const [email, setEmail] = useState("");
   const [inputValue, setInputValue] = useState("");
   const [isOpen, setIsOpen] = useState(false);
@@ -25,12 +29,16 @@ export default function Login() {
     localStorage.setItem("email", inputValue);
     setEmail(inputValue);
     setIsOpen(false);
+    setLoggedIn(true);
+    router.push("/");
   };
 
   const handleLogout = () => {
     localStorage.removeItem("email");
     setEmail("");
     setIsOpen(false);
+    setLoggedIn(false);
+    router.push("/");
   };
 
   return (
@@ -43,7 +51,7 @@ export default function Login() {
               <Avatar account={email} size={30} />{" "}
             </div>
           ) : (
-            "Log in"
+            <div>{children}</div>
           )}{" "}
         </Dialog.Trigger>
         <Dialog.Overlay className={styles.DialogOverlay}>
